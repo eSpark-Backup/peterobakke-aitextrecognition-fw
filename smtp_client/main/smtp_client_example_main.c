@@ -40,7 +40,7 @@
 #define USER_MAIL         "a363f1001@smtp-brevo.com"
 #define SENDER_MAIL         "johannes.dupont@cloud-spot.de"
 #define SENDER_PASSWORD     "xsmtpsib-43fad25226f31b03c1e2fd078e21a3a87cd346b92b08d66e1def7ace5fbdf7d3-jFzNAGlaWhT2UpTg"
-#define RECIPIENT_MAIL      "shakaibnaqvi401@gmail.com"
+#define RECIPIENT_MAIL      "recepient@domain.com"
 
 /* Set to 0 for port 465 (implicit TLS).
  * Set to 1 for port 587 (STARTTLS) — */
